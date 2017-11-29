@@ -1,0 +1,4 @@
+0. The framework allows dimensions of a game from 3x3 up to 9x9 inclusive.
+1. The game’s board is represented with a two dimensional array.
+2. At game’s start the greet() function is called to greet the player.
+3. I need to implement functions init(), draw(), move(int tile) and won().
