@@ -224,7 +224,7 @@ void draw(void)
             }
             else 
             {
-                printf("\033[1;36m");
+                printf("\033[1;33m");
                 printf("%2i  ", board[i][j]);
             }
             if (j == d - 1) 
